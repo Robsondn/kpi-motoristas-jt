@@ -1,0 +1,10 @@
+*.xlsx
+*.xls
+*.log
+*.txt
+*.bat
+*.ps1
+.claude/
+__pycache__/
+*.pyc
+_controle_tmp*
